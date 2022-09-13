@@ -1,7 +1,11 @@
 # Objects are simple 
 
-## A Physicist with strong inclination in Language and Machine Learning, especially Natural Language Processing 
+## A Physicist with inclination in Language and Machine Learning, especially Natural Language Processing. 
 
+**prikarsartam/chatalet** concerns my project on abstractive text summarisation of arbitrarily long inputs with Keras and TensorFlow
+
+- hi
+- hello
 
 
 <!--
