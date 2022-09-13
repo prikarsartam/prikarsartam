@@ -2,7 +2,7 @@
 
 ## A Physicist with inclination in Language, Machine Learning and [Cognition](http://cogito-mag.ml/) - especially Natural Language Processing and NP-Hard evolution algorithms for statistical systems with large degrees of freedom. 
 
-### *MOTTO :* “… and anything that man knows, which is not merely rumbling and roaring of mankind, can be said in three words.” - F.Kürnberger [used as introductory premise of [*Tractatus Logico Philosophicus*](https://writing.upenn.edu/library/Wittgenstein-Tractatus.pdf) by [*Ludwig Wittgenstein*](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein).
+### *MOTTO :* “… and anything that man knows, which is not merely rumbling and roaring of mankind, can be said in three words.” - F.Kürnberger [used as introductory premise of [*Tractatus Logico Philosophicus*](https://writing.upenn.edu/library/Wittgenstein-Tractatus.pdf) by [*Ludwig Wittgenstein*](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) ].
 
 ![](https://github.com/prikarsartam/prikarsartam/blob/main/webpageGIF.gif)
 
