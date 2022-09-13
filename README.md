@@ -10,9 +10,9 @@
 
 - [Ising_Monte-Carlo](https://github.com/prikarsartam/Statistical-Spin-System-Simulation-using-MonteCarlo-Algorithm) uses random number generation method to determine the ground point configuration of a 2D classical 2-level interactive spin system with distinguishing the phase-transition structure underneath and numerically extrapolating the critical exponents for the system at the criticality. 
 
-- [**Drone-Control**] is a software backup for very simple hardware setup for BLDC drones with NODEMCU/ESP32 integrated single *flight controller + receiver* module including 4-channel [*WebSocket*](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) included JavaScript remote controller for universal and reliable communication
+- [**Drone-Control**](https://github.com/prikarsartam/Drone-Control) is a software backup for very simple hardware setup for BLDC drones with NODEMCU/ESP32 integrated single *flight controller + receiver* module including 4-channel [*WebSocket*](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) included JavaScript remote controller for universal and reliable communication.
 
-- [**On Universality of Hyperbolicity**](https://github.com/prikarsartam/On-Universality-of-Hyperbolicity) 
+## FIND ME @ [prikarsartam.ml](http://prikarsartam.ml/)
 
 <!--
 **prikarsartam/prikarsartam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
