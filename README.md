@@ -1,4 +1,8 @@
-### Hi there 👋
+### Objects are simple 
+
+## A Physicist with strong inclination in Language and Machine Learning, especially Natural Language Processing 
+
+
 
 <!--
 **prikarsartam/prikarsartam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
