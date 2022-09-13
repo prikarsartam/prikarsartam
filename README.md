@@ -1,12 +1,11 @@
-# Objects are simple 
+# [Objects are simple](http://prikarsartam.ml/) 
 
-## A Physicist with inclination in Language and Machine Learning, especially Natural Language Processing. 
+## A Physicist with inclination in Language, Machine Learning - especially Natural Language Processing and non-deterministic probabilistic-evolution algorithms 
 
-**prikarsartam/chatalet** concerns my project on abstractive text summarisation of arbitrarily long inputs with Keras and TensorFlow
+### *MOTTO : * “… and anything that man knows, which is not merely rumbling and roaring of mankind, can be said in three words.” - F.Kürnberger [used as introductory premise of [*Tractatus Logico Philosophicus*](https://writing.upenn.edu/library/Wittgenstein-Tractatus.pdf) by [*Ludwig Wittgenstein*](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 
-- hi
-- hello
-
+- [**Chatalet**](https://github.com/prikarsartam/Chatalet) concerns abstractive text summarisation with multilabel classification with further plan to create a *allure-filter* to integrate with enticing headline generation
+- [**Jokerman**](https://github.com/prikarsartam/Jokerman) is a text classification system to determine the level semantic integrety in a syntagma
 
 <!--
 **prikarsartam/prikarsartam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
