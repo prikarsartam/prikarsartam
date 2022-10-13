@@ -14,7 +14,7 @@
 
 - [**Drone-Control**](https://github.com/prikarsartam/Drone-Control) is a software backup for very simple hardware setup for BLDC drones with NODEMCU/ESP32 integrated single *flight controller + receiver* module including 4-channel [*WebSocket*](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) included JavaScript remote controller for universal and reliable communication.
 
-## FIND ME @ [prikarsartam.ml](http://prikarsartam.ml/)
+## FIND ME @ [prikarsartam.github.io/prikarsartam](https://prikarsartam.github.io/prikarsartam/) or [prikarsartam.ml](http://prikarsartam.ml/)
 
 <!--
 **prikarsartam/prikarsartam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
