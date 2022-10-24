@@ -5,6 +5,7 @@
 ### - 💬 *MOTTO :*   “ . . .  and anything that man knows, which is not merely rumbling and roaring of mankind, can be said in three words.” - F. Kürnberger [The introductory premise of [*Tractatus Logico Philosophicus*](https://writing.upenn.edu/library/Wittgenstein-Tractatus.pdf) by [*Ludwig Wittgenstein*](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) ].
 
 ![](https://github.com/prikarsartam/prikarsartam/blob/main/webpageGIF.gif)
+wait for the gif to see css magic
 
 - [**Chatalet**](https://github.com/prikarsartam/Chatalet) concerns abstractive text summarisation with multilabel classification with further plan to create a *allure-filter* to integrate with it for enticing headline generation.
 
