@@ -18,8 +18,15 @@
 
 ## Article Stand
 
-(![image](https://user-images.githubusercontent.com/104849674/204097897-ec6cccfe-89de-4953-9af5-8446f5cb1043.png))
-wait for the gif to see css magic
+
+![image](https://github.com/prikarsartam/prikarsartam/blob/main/Peek%202022-11-17%2023-45.gif)
+wait for the gif to see css magic 
+
+## Project on The graph of Episteme
+
+![image](https://user-images.githubusercontent.com/104849674/204097897-ec6cccfe-89de-4953-9af5-8446f5cb1043.png)
+
+Through `Obsidian dataview`
 
 
 ## FIND ME @ [prikarsartam.github.io](https://prikarsartam.github.io) or [prikarsartam.ml](http://prikarsartam.ml/)
