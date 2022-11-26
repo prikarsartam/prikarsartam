@@ -18,7 +18,7 @@
 
 ## Article Stand
 
-![](![image](https://user-images.githubusercontent.com/104849674/204097897-ec6cccfe-89de-4953-9af5-8446f5cb1043.png))
+(![image](https://user-images.githubusercontent.com/104849674/204097897-ec6cccfe-89de-4953-9af5-8446f5cb1043.png))
 wait for the gif to see css magic
 
 
