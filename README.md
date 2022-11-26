@@ -18,7 +18,7 @@
 
 ## Article Stand
 
-![](https://github.com/prikarsartam/prikarsartam/blob/main/Peek%202022-11-17%2023-45.gif)
+![](![image](https://user-images.githubusercontent.com/104849674/204097897-ec6cccfe-89de-4953-9af5-8446f5cb1043.png))
 wait for the gif to see css magic
 
 
