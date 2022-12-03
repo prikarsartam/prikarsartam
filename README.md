@@ -24,7 +24,7 @@ wait for the gif to see css magic
 
 ## Project on The graph of Episteme
 
-![image]([https://user-images.githubusercontent.com/104849674/204097897-ec6cccfe-89de-4953-9af5-8446f5cb1043.png](https://github.com/prikarsartam/prikarsartam/blob/main/ezgif.com-gif-maker.gif))
+![image](https://github.com/prikarsartam/prikarsartam/blob/main/ezgif.com-gif-maker.gif)
 
 Through `Obsidian dataview`
 
