@@ -22,12 +22,6 @@
 ![image](https://github.com/prikarsartam/prikarsartam/blob/main/Peek%202022-11-17%2023-45.gif)
 wait for the gif to see css magic 
 
-## Project on The graphical model of Episteme
-
-![image](https://github.com/prikarsartam/prikarsartam/blob/main/ezgif.com-gif-maker.gif)
-
-Through `Obsidian dataview`
-
 
 ## FIND ME @ [prikarsartam.github.io](https://prikarsartam.github.io)
 
