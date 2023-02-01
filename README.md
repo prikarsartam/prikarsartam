@@ -10,7 +10,7 @@
 
 - [**Chatalet**](https://github.com/prikarsartam/Chatalet) concerns abstractive text summarisation with multilabel classification with further plan to create a *allure-filter* to integrate with it for enticing headline generation.
 
-- [**Jokerman**](https://github.com/prikarsartam/Jokerman) is a text classification system to determine the level semantic integrety in a syntagma.
+- [**Jokerman**](https://github.com/prikarsartam/Jokerman) is a text classification system to determine the level of semantic integrety in a syntagma.
 
 - [Ising_Monte-Carlo](https://github.com/prikarsartam/Statistical-Spin-System-Simulation-using-MonteCarlo-Algorithm) uses random number generation method to determine the ground point configuration of a 2D classical 2-level interactive spin system with distinguishing the phase-transition structure underneath and numerically extrapolating the critical exponents for the system at the criticality. 
 
