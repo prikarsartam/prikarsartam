@@ -8,6 +8,8 @@
 ## Webpage
 ![](https://github.com/prikarsartam/prikarsartam/blob/main/webpageGIF.gif)
 
+- [**autonomous researcher**](https://github.com/prikarsartam/autonomous_researcher), which can conduct thorough and reliable research on any topic from the internet, something I call `semantic renormalization`. 
+
 - [**Chatalet**](https://github.com/prikarsartam/Chatalet) concerns abstractive text summarisation with multilabel classification with further plan to create a *allure-filter* to integrate with it for enticing headline generation.
 
 - [**Jokerman**](https://github.com/prikarsartam/Jokerman) is a text classification system to determine the level of semantic integrety in a syntagma.
